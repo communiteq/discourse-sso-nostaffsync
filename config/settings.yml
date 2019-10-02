@@ -1,0 +1,3 @@
+plugins:
+  sso_does_not_override_staff:
+    default: false
